@@ -1,6 +1,7 @@
 # TRACED: Transition-aware Regret Approximation with Co-Learnability for Environment Design
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.19997-b31b1b.svg)](https://arxiv.org/abs/2506.19997)
 
 **TRACED** (Transition-aware Regret Approximation with Co-Learnability for Environment Design) is an unsupervised environment-design algorithm that refines regret estimation by decomposing it into value and transition prediction errors, and integrates a lightweight co-learnability metric to quantify the transfer benefits between tasks. It outperforms existing methods-PLR<sup>⊥</sup>, DR, ACCEL, ADD, and CENIE-in zero-shot transfer on MiniGrid mazes and BipedalWalker.
 
@@ -198,3 +199,15 @@ Built on top of the Dual Curriculum Design (DCD) codebase. We thank the authors 
 ## 📄 License
 
 This project is licensed under **CC BY-NC 4.0**. Note that the repository relies on third-party libraries subject to their respective licenses.
+
+## Citation
+
+```
+@article{TRACED,
+  title={TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design},
+  author={Cho, Geonwoo and Im, Jaegyun and Lee, Jihwan and Yi, Hojun and Kim, Sejin and Kim, Sundong},
+  journal={arXiv preprint arXiv:2506.19997},
+  year={2025}
+}
+```
+
