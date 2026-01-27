@@ -1,6 +1,7 @@
 # TRACED: Transition-aware Regret Approximation with Co-Learnability for Environment Design
 
 **📌 ICLR 2026**
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.19997-b31b1b.svg)](https://arxiv.org/abs/2506.19997)
 
