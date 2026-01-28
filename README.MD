@@ -208,7 +208,7 @@ This project is licensed under **CC BY-NC 4.0**. Note that the repository relies
 @article{TRACED,
   title={TRACED: Transition-aware Regret Approximation with Co-learnability for Environment Design},
   author={Cho, Geonwoo and Im, Jaegyun and Lee, Jihwan and Yi, Hojun and Kim, Sejin and Kim, Sundong},
-  journal={arXiv preprint arXiv:2506.19997},
+  journal={International Conference on Learning Representations (ICLR)},
   year={2025}
 }
 ```
